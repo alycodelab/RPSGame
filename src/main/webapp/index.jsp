@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Rock Paper Scissors!!! Code Lab Technology Inc.</title>																																																						<html>
+<title>Rock Paper Scissors Game!!! Code Lab Technology Inc.</title>																																																						<html>
 </head>
 <h1>Welcome to Rock Paper Scissors Game: by CODE LAB TECHNOLOGY INC.</h1>
    <body>
