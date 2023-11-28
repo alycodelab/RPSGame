@@ -1,8 +1,8 @@
 <html>
 <head>
-<title>Rock Paper Scissors!!!</title>																																																						<html>
+<title>Rock Paper Scissors!!! Code Lab Technology Inc.</title>																																																						<html>
 </head>
-
+<h1>Welcome to Rock Paper Scissors Game: by CODE LAB TECHNOLOGY INC.</h1>
    <body>
 
       Which one will it be for you today?<br/>
